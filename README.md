@@ -16,7 +16,10 @@
 -⚡ I firmly believe that learning is not just a skill but an invaluable asset for shaping a successful future.
 
 -📫 Let's connect! Reach out to me at 📧 muhammedajmalcc6424094@gmail.com 💼 
-"Every experience in life is a lesson; embrace it and grow." - juu-cartq
+
+
+
+"Every experience in life is a lesson embrace it and grow." - juu-cart
 <!--
 **iamjuu/iamjuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
