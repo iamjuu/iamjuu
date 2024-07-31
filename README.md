@@ -1,10 +1,10 @@
--👋 Hey there! I'm @muhammedajmalcc, a passionate web developer.
+-👋 Hey there! I'm @muhammedajmalcc, a passionate MERN stack developer.
 
 -👀 Passionate about web development and constantly striving to expand my skills and knowledge.
 
 -🌱 Currently immersed in mastering the MERN (MongoDB, Express.js, React.js, Node.js) stack to build robust and scalable web applications.
 
--💻 Proficient in HTML, CSS, JavaScript, and experienced in crafting responsive and intuitive user interfaces.
+-💻 Proficient in HTML, CSS,react, JavaScript, and experienced in crafting responsive and intuitive user interfaces.
 
 -🔧 Skilled in backend development with Node.js, Express.js, and MongoDB for efficient database management.
 
