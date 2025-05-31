@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm muhammmed ajmalcc</h1>
+<h1 align="center">Hi 👋, I'm Muhammmed Ajmal CC</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamjuu&label=Profile%20views&color=0e75b6&style=flat" alt="iamjuu" /> </p>
